@@ -1,0 +1,51 @@
+.container_12 {
+  background: #C2DD88;
+}
+
+nav ul {
+  margin-top: 45px;
+}
+
+nav li {
+  display: inline;
+  margin-left: 0;
+  margin-right: 30px;
+  font-size: 18px;
+}
+
+aside {
+  background: green;
+}
+
+.primary {
+  background: grey;
+}
+
+header {
+  background: #25300E;
+}
+
+header h1 {
+  font-family:  'Hoefler Text', Georgia, 'Times New Roman', serif;
+	font-weight: normal;
+  font-size: 4.75em;
+	letter-spacing: .2em;
+}
+
+footer {
+  background: #25300E;
+  text-align: center;
+}
+
+footer p {
+  margin-bottom: 0px;
+  font: helvetica;
+}
+.main {
+  margin: 30px 0;
+}
+
+section {
+  box-sizing: border-box;
+  padding: 15px;
+}
